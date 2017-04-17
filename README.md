@@ -1,1 +1,1 @@
-# finalprex.github.io
+# staticwebsiteskeleton.github.io
